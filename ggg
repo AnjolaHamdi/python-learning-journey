@@ -1,3 +1,4 @@
+FUNDAMENTALS ANS PRACTICE EXERCISES
 def grade_student(score):
     if score >= 70:
         return "A"
